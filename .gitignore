@@ -1,0 +1,43 @@
+# --- Основные сгенерированные папки Unity ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+
+# --- Memory captures ---
+/[Mm]emoryCaptures/
+/[Rr]eplicationCaptures/
+
+# --- Файлы Visual Studio / JetBrains Rider / IDE ---
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# --- Операционные системы ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Tricks
+
+# Linux
+.Trash-*
+
+Assets/RPGHero/SRP/FreeRPGHeroesLW.zip
+Assets/RPGHero/SRP/FreeRPGHeroesHD.zip
